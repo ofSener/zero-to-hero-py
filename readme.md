@@ -8,5 +8,6 @@ i wont try to use openai api until i learn more about it.
 
 i learned something about .gitingnore and .env files.
 
+## 2.
 
-
+I think i created the most beautiful http-ping script? and calculator (:
