@@ -1,5 +1,7 @@
+Bu çalışma kendimi “Başlayamayan adam” olarak gördüğüm ve potansiyelimi tamamen unuttuğum zamanlarda “başlasan var ya en iyisi olursun!” diyerek beni yüreklendiren
+## Canım Karıma ithafen;
+Sayende bu nihayet başladım ve iyi hissediyorum.
 
-## Her koşulda desteğini esirgemeyen karım sayesinde;
 #This readme is about my learning journey 
 ## 1.
 i created weather-api.py file and tried to use openai api but i failed to use it.
