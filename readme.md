@@ -1,5 +1,5 @@
 
-## Her koşulda beni destekleyen karıma ithafen
+## Her koşulda desteğini esirgemeyen karım sayesinde;
 #This readme is about my learning journey 
 ## 1.
 i created weather-api.py file and tried to use openai api but i failed to use it.
