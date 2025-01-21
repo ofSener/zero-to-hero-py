@@ -1,5 +1,6 @@
-#This readme is about my learning journey and notes about the things I learn
 
+## Her koşulda beni destekleyen karıma ithafen
+#This readme is about my learning journey 
 ## 1.
 i created weather-api.py file and tried to use openai api but i failed to use it.
 i thought it is free but i was wrong.
